@@ -11,7 +11,6 @@ Considered :
  3.If multiple entries for check-out then considered last one.
  
  4. If there is only one chek-in for a day and  no check-out and there is chek-out next day then calculate time difference and if it is more then 15 years mark it as Time Out.
- 
- 8. have attched sample input excelsheet
+
  
 Comment me if you want to add more logic
